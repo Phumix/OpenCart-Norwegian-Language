@@ -1,6 +1,7 @@
 # OpenCart-Norwegian-Language
-Norwegian Language Pack for OpenCart v2.0.2.0, (admin translation not included). 
-Part of a school project.
+Norwegian Language Pack for OpenCart v2.0.2.0.
+
+Part of a school project & without admin translation.
 
 ##Installation Instructions
     1. Copy the files.
