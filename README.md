@@ -7,7 +7,7 @@ Part of a school project & without admin translation.
 1. Copy the files.
 2. Go to the Admin Panel in OpenCart.
 3. Go to System -> Localization -> Languages
-3. Create a new language using the following:
+3. Create a new language using the following options:
 > Language Name: Norsk
 
 > Code: no
