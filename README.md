@@ -3,11 +3,11 @@ Norwegian Language Pack for OpenCart v2.0.2.0.
 
 Part of a school project & without admin translation.
 
-##Installation Instructions
+## Installation Instructions
 1. Copy the files.
 2. Go to the Admin Panel in OpenCart.
 3. Go to System -> Localization -> Languages
-3. Create a new language with the following features:
+3. Create a new language using the following:
 > Language Name: Norsk
 
 > Code: no
@@ -27,6 +27,6 @@ Part of a school project & without admin translation.
 4. Select status enabled and hit save.
     
     
-##Support
+## Support
 If you find errors or need any kind of support,
 please contact me by submitting a issue ticket.
